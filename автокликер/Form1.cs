@@ -538,7 +538,6 @@ namespace автокликер
 
         private void button3_Click(object sender, EventArgs e)
         {
-          
             s = 0; m = 0; h = 0;
             clickCount = 0;
 
@@ -553,9 +552,7 @@ namespace автокликер
 
             textBox10.Enabled = false;
             textBox6.Enabled = false;
-            textBox8.Enabled = false;
-
-            
+            textBox8.Enabled = false; 
         }
 
         private void Form1_Click(object sender, EventArgs e)
